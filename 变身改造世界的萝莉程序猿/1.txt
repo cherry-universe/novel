@@ -41,19 +41,13 @@
 
 “嗷——！” 灵魂发出了无声的尖叫。他感觉自己像一段被扔进老式滚筒洗衣机里的劣质代码，正在被疯狂地搅动、编译、重写！脑海里瞬间刷屏：
 
-[ERROR 404: Soul Not Found!]（错误404：灵魂未找到！)
-
-[WARNING: Incompatible Driver Detected! (Gender: MALE)](警告：检测到不兼容的驱动程序！（性别：男）)
-
-[CRITICAL: Initiating FORMAT... Formatting LIFE.run...](关键：启动格式…正在格式化LIFE.run程序...
-
-[Installing New Profile: ADOLESCENT_HUMAN_FEMALE_V1.0...](正在安装新的配置文件：青春期人类女性V1.0…)
-
-[Applying Cosmetic Patch: HAIR_COLOR = #FFFFFF](应用化妆贴片：头发颜色=纯白色)
-
-[Applying Feature Patch: EYE_COLOR_LEFT = #0000FF (Azure Debugger), EYE_COLOR_RIGHT = #FFD700 (Golden Bug)](应用功能贴片：眼睛颜色左= 蓝色（Azure调试器），眼睛颜色右= 金色（金色Bug传说）)
-
-[WARNING: System Resources LOW! Entering Power-Saving Hibernation...](警告：系统资源低！进入节电休眠状态……”）
+[ERROR 404: Soul Not Found!]
+[WARNING: Incompatible Driver Detected! (Gender: MALE)]
+[CRITICAL: Initiating FORMAT... Formatting LIFE.run...]
+[Installing New Profile: ADOLESCENT_HUMAN_FEMALE_V1.0...]
+[Applying Cosmetic Patch: HAIR_COLOR = #FFFFFF]
+[Applying Feature Patch: EYE_COLOR_LEFT = #0000FF (Azure Debugger), EYE_COLOR_RIGHT = #FFD700 (Golden Bug)]
+[WARNING: System Resources LOW! Entering Power-Saving Hibernation...]
 
 “喂喂喂！等等！那个#FFFFFF是个什么东西？！还有那个Gender…喂！Format 你妹啊！我存档还没…保…存…”
 
@@ -75,11 +69,11 @@
 
 空气里有股……嗯……熬夜、泡面、还有一点点电路板烧焦的混合芬芳。
 
-“……这地铺质量真差……” 她嘟囔着，想用手把自己撑起来。
+“……这地铺质量真差……” 她嘟囔着，想用手把自己撑起来，却感到一阵虚弱。
 
 然后，她看到了一只……手。
 
-一只小巧、白嫩、手指纤细、指甲盖圆润粉嫩、怎么看怎么像从二次元手办上拆下来的……萝莉手！
+一只小巧、白嫩、手指纤细、指甲盖圆润粉嫩的手。如果无视手上那若隐若现的伤痕的话...怎么看怎么像从二次元手办上拆下来的……萝莉手！
 
 “？？？” 大脑瞬间Panic。
 
@@ -87,7 +81,7 @@
 
 乱糟糟的、像被静电炸过一样的银白色长发，跟刚被漂白剂泼过似的。
 
-一张下巴尖尖、带着婴儿肥的小萝莉脸。
+一张下巴圆圆、带着婴儿肥的小萝莉脸，但美中不足的是额角有一道不起眼的疤痕。
 
 一双眼睛左边是冰蓝色，像没加糖的蓝莓冰沙。右边是金灿灿的，像融化的太妃糖。
 

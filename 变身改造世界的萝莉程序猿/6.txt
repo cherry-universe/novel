@@ -12,13 +12,10 @@
 
 林小雨瞬间领悟，反手架住姐姐（感觉像在拖一个随时会散架的人形服务器），爆发出体育中考百米冲刺的潜力。林橙感觉自己像个被强行拖拽的破旧人偶，每一次迈步，腰间的裂口都在“嘶嘶”地嘲笑她，凉风嗖嗖地往里灌，提醒她这具身体和灵魂的兼容性有多糟糕。
 
-视野边缘又开始不受控地刷屏：
+左眼视野边缘又开始不受控地刷屏：
 
 [WARNING] Physical integrity compromised: Lower_Torso_Fabric_Integrity. Threat level: EMBARRASSMENT_CRITICAL.
-
 [ERROR] Kernel panic? Negative. Fabric panic confirmed. System stress: MAXIMUM.
-
-(【警告】物理完整性受损：下半身布料完整性。威胁等级：社死危机。【错误】内核恐慌？否定。布料恐慌确认。系统压力：最大值。)
 
 “哐当！”林小雨用肩膀暴力开门，姐妹俩像两颗出膛的炮弹砸进服装店凉爽的空调风里。门口的感应器“叮咚”一声，店员那句“欢迎光临”刚吐出一半就卡在了喉咙里。
 
@@ -39,10 +36,7 @@
 林橙拎起那堆轻飘飘、缀满花边、饱和度突破天际的“萌系装备”，眼角和嘴角同时开始不受控地抽搐。这审美……跟她衣柜里那些洗得发白的纯色T恤和工装裤，简直是银河系的两端！她甚至能预见到穿上之后视野里的弹窗：
 
 [ALERT] FATAL STYLE MISMATCH! User preference profile (Comfort++ / Practicality+) conflicts with proposed solution (Kawaii Overload 9000).
-
 [SUGGESTION] Execute sanity_check? (Y/n)
-
-(【警报】致命风格冲突！用户偏好配置文件（舒适++ / 实用性+）与建议的解决方案（卡哇伊超载9000）冲突。【建议】执行理智检查？(是/否))
 
 “林！小！雨！”林橙从牙缝里挤出妹妹的名字，努力让声音听起来不像在磨刀，“宽松！纯棉！T恤！运动裤！越像装土豆的麻袋越好！Understand？！”
 
@@ -51,10 +45,7 @@
 林橙长叹一声，认命地开始与布料搏斗。脱掉那件“凶器”旧裙子的瞬间，她舒服得差点呻吟出声。然而，当她试图把新裙子套过头时，这具新身体的“驱动不兼容”问题再次暴露无遗。手臂该抬多高？腰该怎么扭？大脑发出精确指令，肢体却像是在用300ms延迟的远程桌面操作，反应迟钝，动作笨拙。
 
 [NOTICE] Motor control driver reloading... Latency: HIGH (Estimated 350ms).
-
-[WARNING] Legacy muscle memory (Lincheng v1.0) incompatible with current hardware (Lincheng v2.0). Driver update required.
-
-(【注意】运动控制驱动重新加载中...延迟：高（估计350毫秒）。【警告】遗留肌肉记忆（林程v1.0）与当前硬件（林橙v2.0）不兼容。需要更新驱动程序。)
+[WARNING] Legacy muscle memory (Lincheng v2.0) incompatible with current hardware (Lincheng v1.18). Driver rollback required.（注意，这里是伏笔）
 
 她咬牙切齿，终于把那件白色连衣裙套好。柔软透气的棉布包裹着身体，宽松的剪裁终于让她找回了呼吸的自由权。她长长地、满足地舒了一口气，准备推门出去宣告胜利。
 

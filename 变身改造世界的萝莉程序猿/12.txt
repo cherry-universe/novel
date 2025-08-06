@@ -20,25 +20,17 @@
 
 “不……不是这样的……我不知道……我控制不了……” 林橙抱着头，纯白的炸毛头发显得更加凌乱，冰蓝和金黄的异瞳因为巨大的精神冲击而有些涣散。
 
-她感到一股难以言喻的烦躁和恐慌在体内横冲直撞，仿佛失控的电流在乱窜。视野的边缘开始疯狂闪烁，无数杂乱的、扭曲的、意义不明的字符和错误提示如同瀑布般刷屏。
+她感到一股难以言喻的烦躁和恐慌在体内横冲直撞，仿佛失控的电流在乱窜。左眼视野边缘开始疯狂闪烁，无数杂乱的、扭曲的、意义不明的字符和错误提示如同瀑布般刷屏。
 
-[WARNING: Core Emotional Overload]（警告：核心情绪超载。）
-
-[CRITICAL: Energy Level Critical.]（临界：能量等级临界。）
-
-[SYSTEM ERROR: Unhandled Exception in Neural Network.]（系统错误：神经网络中未处理的异常。）
-
-[Segmentation fault (core dumped)... Attempting recovery... FAILED!]（段错误（核心已转储）...尝试恢复...失败。）
-
-[...panic: kernel stack overflow...]（panic:内核栈溢出）
-
-[...buffer overflow detected...]（检测到缓冲区溢出）
-
-[...fatal error: all goroutines are asleep - deadlock!...](致命错误：所有例程都处于休眠状态-死锁！)
-
-[...stack smashing detected...](检测到栈溢出)
-
-[...Kernel panic - not syncing: Fatal exception...]（内核恐慌-不同步：致命异常）
+[WARNING: Core Emotional Overload]
+[CRITICAL: Energy Level Critical.]
+[SYSTEM ERROR: Unhandled Exception in Neural Network.]
+[Segmentation fault (core dumped)... Attempting recovery... FAILED!]
+[...panic: kernel stack overflow...]
+[...buffer overflow detected...]
+[...fatal error: all goroutines are asleep - deadlock!...]
+[...stack smashing detected...]
+[...Kernel panic - not syncing: Fatal exception...]
 
 混乱的信息流如同病毒般侵蚀着她的意识，带来剧烈的头痛和眩晕。她的身体不受控制地颤抖起来，体内的能量像开了闸的洪水，不受控制地向外逸散、暴走。
 

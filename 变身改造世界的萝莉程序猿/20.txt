@@ -21,7 +21,7 @@
 
 林小雨理解地点点头，随即又兴奋起来：“姐，你知道吗？我们班新来了个转学生，超帅的！而且好像还是体育特长生！”她顿了顿，小脸微红，凑近林橙耳边压低声音，“还有还有，隔壁班的那个女生，今天又偷偷给我塞了手工饼干…百合花形状的哦！”
 
-林橙面无表情地听着妹妹分享校园“情报”，右眼不自觉地扫描了一下小雨书包侧袋里那个包装精致的小盒子，视野里立刻弹出一个框：
+林橙面无表情地听着妹妹分享校园“情报”，左眼不自觉地扫描了一下小雨书包侧袋里那个包装精致的小盒子，视野里立刻弹出一个框：
 
 fastfetch
 Object: Handmade Cookies
@@ -38,7 +38,7 @@ Warning: Contains high levels of sugar and potential emotional attachment.
 
 “唉，可怜的余大哥，明明只是撞见了你调试内衣…”林小雨小声嘀咕，看到林橙杀人的眼神立刻举手投降，“好好好，我不说了！那你今天还出门吗？郑队长不是说下午要去训练场吗？”
 
-林橙看了一眼电脑右下角的时间，又感受了一下体内那如同老式硬盘般缓慢运转的能量核心——cat /proc/energyinfo 的意念指令反馈回一个孤零零的 Energy: 45%。郑峰安排的所谓“能力适应性训练”，本质上就是高强度、高耗能的“实战模拟”。美其名曰提升控制力，实则就是变相的极限压榨和监控。每次训练完，她都感觉自己像被dd命令全盘擦写了一遍，只剩下空荡荡的物理躯壳。
+林橙看了一眼电脑右下角的时间，又感受了一下体内那如同老式硬盘般缓慢运转的能量核心——cat /sys/class/power_supply/BAT0/capacity的意念指令反馈回一个孤零零的45。郑峰安排的所谓“能力适应性训练”，本质上就是高强度、高耗能的“实战模拟”。美其名曰提升控制力，实则就是变相的极限压榨和监控。每次训练完，她都感觉自己像被dd命令全盘擦写了一遍，只剩下空荡荡的物理躯壳。
 
 “去，能不去吗？”林橙认命地叹了口气，从椅子上滑下来，“那位郑大队长，他的眼神就像gdb的断点，早就钉死在我这个‘潜在高危进程’上了。不去？我怕他直接kill -9（强制终止）。”
 
@@ -78,10 +78,10 @@ set_speed(target_3, 0);
 
 就在这时，一个微弱的、带着特定识别码的信号源突然出现在林橙的感知边缘。它伪装成一个无害的漂浮物，但Azure Debugger立刻弹出了高亮警告：
 
-// Object: Simulated Neutral Drone
-// Signal Pattern: [FRIENDLY_ID_ALPHA] (Spoofed)
-// Actual Threat Level: [D] (Decoy/Distraction)
-// Recommendation: Ignore or Mark Safe.
+[Object: Simulated Neutral Drone]
+[Signal Pattern: [FRIENDLY_ID_ALPHA]]
+[Actual Threat Level: [D]]
+[Recommendation: Ignore or Mark Safe.]
 
 是郑峰说的“友方单位干扰”！林橙的神经紧绷到了极限。维持三个靶机的冻结已经让她如同超频的CPU般滚烫，这突如其来的干扰信号如同一个恶意插入的线程，试图抢夺宝贵的处理资源。她必须快速判断！
 
@@ -110,7 +110,7 @@ mark_safe(friendly_decoy_alpha); // 标记为安全，忽略
 
 林橙连翻白眼的力气都没有了，只能在心里疯狂刷屏：
 
-// System Message: F*ck You!
+// System Message: Fuck You N(Z)v(h)i(e)d(n)i(g)a(feng)!
 // Error: Energy Critical. Sarcasm Module Unavailable.
 // Recommendation: Find nearest horizontal surface and hibernate.
 
@@ -134,12 +134,12 @@ mark_safe(friendly_decoy_alpha); // 标记为安全，忽略
 
 入手微沉，电路板边缘打磨得很光滑，显然是花了心思的。她默默输入 lsusb 意念指令，扫描了一下这个小设备：
 
-// Device: Custom Kernel Panic Sniffer
-// Vendor: NEIGHBOR_YU
-// Capabilities: FrameBuffer Dump, Kernel Log Parsing, Basic Symbol Resolution
-// Power Source: Micro USB / CR2032 Backup
-// Status: [READY]
-// Estimated Usefulness: High (for current crisis)
+[Device: Custom Kernel Panic Sniffer]
+[Vendor: NEIGHBOR_YU]
+[Capabilities: FrameBuffer Dump, Kernel Log Parsing, Basic Symbol Resolution]
+[Power Source: Micro USB / CR2032 Backup]
+[Status: [READY]]
+[Estimated Usefulness: High (for current crisis)]
 
 “…// Comment: Well... technically useful.” 林橙低声嘟囔了一句，攥紧了那个小工具，推开了自己的房门。房间里，三块显示器依旧漆黑一片，无声地诉说着滚挂的悲剧。她叹了口气，把余胜军的“神器”插上电脑的USB接口。
 

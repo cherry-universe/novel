@@ -32,7 +32,7 @@
 
 “看！今天物理随堂测，我居然及格了！老班看我的眼神都像见了鬼！”林小雨盘腿坐在地毯上，一边啃着苹果，一边眉飞色舞地讲述，试图驱散姐姐眉宇间的沉郁。“还有还有，隔壁班那个王同学，今天体育课跑八百米，最后冲刺的时候摔了个大马趴，假发都飞出去老远！噗哈哈哈…原来他是为了遮住地中海才戴假发的！”
 
-林橙裹着毯子，靠在沙发里，右眼Golden Bug模式都懒得开，只是用左眼冰蓝色的Azure Debugger模式安静地扫描着妹妹。视野里，林小雨的生命体征数据平稳，但精神压力指数（根据微表情、语速、瞳孔细微变化等分析）在安全阈值的高位徘徊。Stress_Level: 73% (High School Senior Mode)。她听着妹妹叽叽喳喳的声音，感受着身边传来的、属于活人的温暖体温和淡淡的洗发水味道。这声音和温度，如同稳定运行的背景进程，一点点抚平她因训练而紊乱的“内核”。
+林橙裹着毯子，靠在沙发里，右眼Golden Bug模式都懒得开，只是用左眼冰蓝色的Azure Debugger安静地扫描着妹妹。视野里，林小雨的生命体征数据平稳，但精神压力指数（根据微表情、语速、瞳孔细微变化等分析）在安全阈值的高位徘徊。Stress_Level: 73% (High School Senior Mode)。她听着妹妹叽叽喳喳的声音，感受着身边传来的、属于活人的温暖体温和淡淡的洗发水味道。这声音和温度，如同稳定运行的背景进程，一点点抚平她因训练而紊乱的“内核”。
 
 “姐，你知道吗？”林小雨的声音忽然低了一点，带着一丝不易察觉的抱怨，“最近放学路上，感觉好冷清啊。以前那条小吃街可热闹了，现在好多店都关得早，路上人也少了好多。特别是从学校后门抄近路穿过那个小公园…路灯坏了好几盏，黑黢黢的，一个人走还真有点瘆得慌。”
 
@@ -47,8 +47,10 @@
 “算啦算啦！”林小雨立刻又扬起笑脸，反过来抓住林橙的手，“你好好休息！我可是要保护姐姐的人！再说了，我可是带了‘秘密武器’的！”她神秘兮兮地从书包里掏出一个粉红色的、带小兔子挂件的警报器，用力按了一下，刺耳的蜂鸣声瞬间响彻客厅。
 
 林橙被这突如其来的噪音刺激得一个激灵，左眼视野里瞬间刷过一片警告：
+
 [WARNING] High Decibel Noise Detected! Sensory Overload!
 [ERROR] Auditory Processing Unit Overdriven!
+
 “林！小！雨！”她咬牙切齿，想伸手去掐妹妹的痒痒肉，却因为脱力动作慢得像树懒。
 
 林小雨大笑着跳开，关掉警报器，脸上是恶作剧得逞的狡黠：“看！多响亮！方圆五十米的坏人都得吓跑！姐你安心当你的睡美人吧，骑士小姐会安全到家的！”她蹦蹦跳跳地去厨房倒水，哼着不成调的动漫主题曲。
@@ -63,15 +65,16 @@
 
 林橙一开始还绷着脸，假装没看见。但技术宅的本能最终战胜了羞耻心。某天训练回来，累得灵魂出窍，看到门口又放着一个贴着便签的小型传感器模组。
 
-// Device: Miniature Energy Flux Monitor (Prototype v0.2)
-// Function: Passive Monitoring of Personal Energy Core Fluctuations (Non-invasive)
-// Power: Micro USB. Output: CSV over Serial.
-// Note: Calibration might be off. Use with skepticism. - YU
+[Device: Miniature Energy Flux Monitor (Prototype v0.2)]
+[Function: Passive Monitoring of Personal Energy Core Fluctuations (Non-invasive)]
+[Power: Micro USB. Output: CSV over Serial.]
+[Note: Calibration might be off. Use with skepticism. - YU]
 
 林橙盯着那个小东西看了几秒，最终还是弯腰捡了起来。// Object Acquired. Scanning…。回到房间，她鬼使神差地把它插在了电脑上。简陋的串口终端里，开始滚动一行行实时数据，正是她体内那如同风中残烛般摇曳的能量核心读数。虽然精度粗糙，波动剧烈，但确实提供了一个客观的、可视化的“血条”参考，比她自己意念 cat /proc/energyinfo 的主观感受要直观一些。
 
 第二天，林橙出门时，在余胜军的门口放了一罐她囤积的、提神效果堪比液氮的“程序员特浓咖啡”。罐子上贴着一张从废代码本上撕下来的纸条，上面画着一个极其潦草的、竖起大拇指的像素风笑脸，旁边还有一行小字：
-// Coffee: [FUEL_TYPE: HIGH_OCTANE]
+
+/* Coffee: [FUEL_TYPE: HIGH_OCTANE] */
 // Feedback: Monitor v0.2 - Accuracy: [D-], Usefulness: [B+]. Keep Iterating. - L.C.
 
 没有对话。没有眼神交流。只有冰冷的合金门板和门口交换的小物件。但一种基于共同语言（技术）和共同困境（被郑峰压榨）的、微弱的同盟感，在这无声的“Pull Request”与“Code Review”中悄然建立。当林橙拖着疲惫的身躯回来，看到门口又出现新的“小玩意儿”，或是余胜军收到那罐咖啡后门内隐约传来的一声压抑的欢呼时，那沉重的脚步，似乎也轻快了那么微不足道的一丝。
