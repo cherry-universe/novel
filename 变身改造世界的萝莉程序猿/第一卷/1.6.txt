@@ -1,4 +1,4 @@
-6. 兼容性
+1.6 兼容性
 
 “嗤啦——！”
 
@@ -45,7 +45,7 @@
 林橙长叹一声，认命地开始与布料搏斗。脱掉那件“凶器”旧裙子的瞬间，她舒服得差点呻吟出声。然而，当她试图把新裙子套过头时，这具新身体的“驱动不兼容”问题再次暴露无遗。手臂该抬多高？腰该怎么扭？大脑发出精确指令，肢体却像是在用300ms延迟的远程桌面操作，反应迟钝，动作笨拙。
 
 [NOTICE] Motor control driver reloading... Latency: HIGH (Estimated 350ms).
-[WARNING] Legacy muscle memory (Lincheng v2.0) incompatible with current hardware (Lincheng v1.18). Driver rollback required.（注意，这里是伏笔）
+[WARNING] Legacy muscle memory (Lincheng v2.25.2) incompatible with current hardware (Lincheng v1.13.5). Driver rollback required.（注意，这里是伏笔）
 
 她咬牙切齿，终于把那件白色连衣裙套好。柔软透气的棉布包裹着身体，宽松的剪裁终于让她找回了呼吸的自由权。她长长地、满足地舒了一口气，准备推门出去宣告胜利。
 
